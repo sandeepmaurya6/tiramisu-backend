@@ -1,0 +1,15 @@
+{
+  "name": "tiramisua-and-backend",
+  "version": "1.0.0",
+  "description": "backend learning with tiramisu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiramisu",
+    "backend"
+  ],
+  "author": "Sandeep",
+  "license": "ISC"
+}
